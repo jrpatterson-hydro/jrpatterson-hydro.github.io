@@ -3,7 +3,7 @@ title: SHOAL Lab
 subtitle: Spectral Hydrology Observation and Analysis Lab
 email: pattersonjr@uncw.edu
 description: "Not all who wander are lost."
-url: "https://shoal-lab.org" # the base hostname & protocol for your site
+url: "shoal-lab.org" # the base hostname & protocol for your site
 author:
 street_address_1: University of North Carolina - Wilmington
 street_address_2: Dept. of Earth and Ocean Sciences
