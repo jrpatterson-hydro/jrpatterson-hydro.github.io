@@ -3,7 +3,7 @@ title: Jeremy Patterson
 subtitle: Physical Hydrogeology
 email: pattersonjr@uncw.edu
 description: "Not all who wander are lost."
-url: "https://jrpatterson-hydro.github.io" # the base hostname & protocol for your site
+url: "https://shoal-lab.github.io" # the base hostname & protocol for your site
 author:
 street_address_1: University of North Carolina - Wilmington
 street_address_2: Dept. of Earth and Ocean Sciences
@@ -16,7 +16,7 @@ phone: 910-962-2716
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/jrpatterson-hydro
+github_url: https://github.com/shoal-lab
 gitlab_url:
 googleplus_url:
 instagram_url:
